@@ -1,0 +1,23 @@
+{
+  "name": "zelij-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "github.com/geekloper",
+  "license": "ISC",
+  "devDependencies": {
+    "@modyfi/vite-plugin-yaml": "^1.1.1",
+    "@tailwindcss/vite": "^4.1.14",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "prettier": "^3.6.2",
+    "tailwindcss": "^4.1.14",
+    "vite": "^7.1.9"
+  }
+}

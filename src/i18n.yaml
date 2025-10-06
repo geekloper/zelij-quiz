@@ -1,0 +1,371 @@
+ar:
+  title: 'مرحبا بك فالإختبار ديال الزليج 🇲🇦'
+  desc: 'قارن تصورك للمغرب مع الحقائق الدولية، باش تعرف واش راك قريب لتزلج.'
+  opensource: '(100% مفتوح المصدر)'
+  start: 'ابدأ الاختبار'
+  next: 'السؤال التالي ⬅️'
+  replay: 'إعادة 🔄'
+  share: 'مشاركة 🔗'
+  verdictSure: 'أنت تميل إلى التزلج 📈'
+  verdictSous: 'أنت تميل إلى التقليل زير معانا 📉'
+  verdictNeutre: 'المعاير ديالك محايدة 🎯🥳'
+  overestimations: 'التزلايجيت'
+  underestimations: 'التقليل'
+  questions:
+    - question: 'فين كيتصنف المغرب في الرياضيات (PISA)؟'
+      options: ['أول 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: 'المغرب فالمرتبة 71 من 81 دولة (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'فين كيتصنف المغرب فالفهم ديال القراية (PISA)؟'
+      options: ['أول 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: 'المغرب فالمرتبة 79 من 81 دولة (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'فينا كيتصنف المغرب فالعلوم (PISA)؟'
+      options: ['أول 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: 'المغرب فالمرتبة 76 من 81 دولة (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'شحال من تلميذ مغربي عندو 15 عام عاود القسم؟'
+      options: ['أقل من 20%', '20-30%', '31-40%', '41%+']
+      correct: '41%+'
+      explanation: 'حوالي 45%'
+      sources:
+        - source: 'OCDE – PISA Country Profile'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+
+    - question: 'شحال كيصرف المغرب على التعليم من الناتج الداخلي الخام؟'
+      options: ['أقل من 3%', '3-4%', '5%', '6%+']
+      correct: '6%+'
+      explanation: 'حوالي 6% من الناتج الداخلي'
+      sources:
+        - source: 'UNESCO – UIS'
+          source_link: 'https://download.uis.unesco.org/SDG4/SDG4-Profile-Morocco.pdf'
+
+    - question: 'فينا كيتصنف المغرب فحرية الصحافة (RSF)؟'
+      options: ['أول 45', '46-90', '91-135', '136+']
+      correct: '91-135'
+      explanation: 'المغرب فالمرتبة 120 من 180  (2025)'
+      sources:
+        - source: 'RSF – الترتيب العالمي'
+          source_link: 'https://rsf.org/ar/%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9'
+
+    - question: 'فينا كيتصنف المغرب فمؤشر الفساد (CPI)؟'
+      options: ['أول 50', '51-80', '81-100', '101+']
+      correct: '81-100'
+      explanation: 'المغرب فالمرتبة 99 من 180، بنقطة 37/100'
+      sources:
+        - source: 'Transparency International – CPI'
+          source_link: 'https://www.transparency.org/en/cpi/2024/index/mar'
+
+    - question: 'فينا كيتصنف المغرب فمؤشر الديمقراطية (167 دولة)؟'
+      options: ['أول 50', '51-80', '81-100', '101+']
+      correct: '81-100'
+      explanation: 'المغرب فالمرتبة 91 من 167 (2024)'
+      sources:
+        - source: 'The Economist – Democracy Index'
+          source_link: 'https://www.eiu.com/n/campaigns/democracy-index-2024/'
+        - source: 'wikipedia'
+          source_link: 'https://en.wikipedia.org/wiki/The_Economist_Democracy_Index'
+
+    - question: 'شحال خدا المغرب فمؤشر الحرية (Freedom House) من 100؟'
+      options: ['0-25', '26-50', '51-75', '76-100']
+      correct: '26-50'
+      explanation: '37/100'
+      sources:
+        - source: 'Freedom House – المغرب'
+          source_link: 'https://freedomhouse.org/country/morocco'
+
+    - question: 'فينا كيتصنف المغرب فمؤشر المساواة بين الجنسين (146 دولة)؟'
+      options: ['أول 50', '51-100', '101-130', '131+']
+      correct: '131+'
+      explanation: 'المغرب فالمرتبة 137 من 146 دولة'
+      sources:
+        - source: 'WEF – مؤشر الفجوة بين الجنسين'
+          source_link: 'https://reports.weforum.org/docs/WEF_GGGR_2025.pdf'
+
+    - question: 'شحال كيصرف المغرب على الصحة من الناتج الداخلي الخام؟'
+      options: ['أقل من 4%', '4-5%', '6%', '7%+']
+      correct: '6%'
+      explanation: 'حوالي 6% من الناتج الداخلي'
+      sources:
+        - source: 'البنك الدولي – الإنفاق الصحي'
+          source_link: 'https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS'
+
+    - question: 'شحال من السبيطارات فالمغرب عندهم لمّا صالح و متوفر؟'
+      options: ['أقل من 70%', '71-80%', '81-90%', '91%+']
+      correct: '71-80%'
+      explanation: 'حوالي 76%'
+      sources:
+        - source: 'WHO/UNICEF JMP'
+          source_link: 'https://washdata.org/data/healthcare#!/MAR'
+
+en:
+  title: 'Welcome to Zelij Quiz 🇲🇦'
+  desc: 'Compare your perception of Morocco with international facts. 100% anonymous.'
+  opensource: '(100% open-source)'
+  start: 'Start Quiz'
+  next: 'Next Question ➡️'
+  replay: 'Play Again 🔄'
+  share: 'Share 🔗'
+  verdictSure: 'Tendency to Zelij 📈'
+  verdictSous: 'Tendency to Underestimate 📉'
+  verdictNeutre: 'Neutral Calibration 🎯🥳'
+  overestimations: 'Overestimations'
+  underestimations: 'Underestimations'
+  questions:
+    - question: 'Where would you rank Morocco in mathematics (PISA)?'
+      options: ['Top 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: '71st out of 81 (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'Where would you rank Morocco in reading comprehension (PISA)?'
+      options: ['Top 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: '79th out of 81 (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'Where would you rank Morocco in sciences (PISA)?'
+      options: ['Top 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: '76th out of 81 (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'What percentage of Moroccan students (age 15) have repeated a grade at least once?'
+      options: ['<20%', '20-30%', '31-40%', '41%+']
+      correct: '41%+'
+      explanation: 'Around 45%'
+      sources:
+        - source: 'OCDE – PISA Country Profile'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+
+    - question: 'What share of GDP does Morocco spend on education?'
+      options: ['<3%', '3-4%', '5%', '6%+']
+      correct: '6%+'
+      explanation: 'About 6% of GDP'
+      sources:
+        - source: 'UNESCO – UIS'
+          source_link: 'https://download.uis.unesco.org/SDG4/SDG4-Profile-Morocco.pdf'
+
+    - question: 'Where would you rank Morocco in press freedom (RSF, 180 countries)?'
+      options: ['Top 45', '46-90', '91-135', '136+']
+      correct: '91-135'
+      explanation: '120th out of 180 (2025)'
+      sources:
+        - source: 'Classement mondial RSF'
+          source_link: 'https://rsf.org/en/country/morocco-western-sahara'
+
+    - question: 'Where would you rank Morocco in the Corruption Perceptions Index (CPI)?'
+      options: ['Top 50', '51-80', '81-100', '101+']
+      correct: '81-100'
+      explanation: '99th out of 180, score 37/100'
+      sources:
+        - source: 'Transparency International – CPI'
+          source_link: 'https://www.transparency.org/en/cpi/2024/index/mar'
+
+    - question: 'Where would you rank Morocco in the Democracy Index (167 countries)?'
+      options: ['Top 50', '51-80', '81-100', '101+']
+      correct: '81-100'
+      explanation: '91th out of 167 (2024)'
+      sources:
+        - source: 'The Economist – Democracy Index'
+          source_link: 'https://www.eiu.com/n/campaigns/democracy-index-2024/'
+        - source: 'wikipedia'
+          source_link: 'https://en.wikipedia.org/wiki/The_Economist_Democracy_Index'
+
+    - question: 'What is Morocco’s global freedom score (Freedom House, out of 100)?'
+      options: ['0-25', '26-50', '51-75', '76-100']
+      correct: '26-50'
+      explanation: '37/100'
+      sources:
+        - source: 'Freedom House – Morocco'
+          source_link: 'https://freedomhouse.org/country/morocco'
+
+    - question: 'Where does Morocco rank in gender equality (Global Gender Gap, 146 countries)?'
+      options: ['Top 50', '51-100', '101-130', '131+']
+      correct: '131+'
+      explanation: '137th out of 146 (score ~0.628)'
+      sources:
+        - source: 'WEF – Global Gender Gap Report'
+          source_link: 'https://reports.weforum.org/docs/WEF_GGGR_2025.pdf'
+
+    - question: 'What share of GDP does Morocco spend on health?'
+      options: ['<4%', '4-5%', '6%', '7%+']
+      correct: '6%'
+      explanation: 'Around 6% of GDP'
+      sources:
+        - source: 'البنك الدولي – الإنفاق الصحي'
+          source_link: 'https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS'
+
+    - question: 'What percentage of healthcare facilities in Morocco have basic water services?'
+      options: ['<70%', '71-80%', '81-90%', '91%+']
+      correct: '71-80%'
+      explanation: 'About 76%'
+      sources:
+        - source: 'WHO/UNICEF JMP'
+          source_link: 'https://washdata.org/data/healthcare#!/MAR'
+
+fr:
+  title: 'Testez votre calibrage 🇲🇦'
+  desc: 'Comparez votre perception du Maroc avec les faits internationaux. 100% anonyme.'
+  opensource: '(100% open-source)'
+  start: 'Commencer le test'
+  next: 'Question suivante ➡️'
+  replay: 'Rejouer 🔄'
+  share: 'Partager 🔗'
+  verdictSure: 'Tendance au Zelij 📈'
+  verdictSous: 'Tendance à la sous-estimation 📉'
+  verdictNeutre: 'Calibrage neutre 🎯🥳'
+  overestimations: 'Surestimations'
+  underestimations: 'Sous-estimations'
+  questions:
+    - question: 'Où classeriez-vous le Maroc en mathématiques (PISA) ?'
+      options: ['Top 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: '71ᵉ/81 (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'Où classeriez-vous le Maroc en sciences (PISA) ?'
+      options: ['Top 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: '76ᵉ/81 (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'Où classeriez-vous le Maroc en compréhension de l’écrit (PISA) ?'
+      options: ['Top 40', '41-50', '51-70', '71+']
+      correct: '71+'
+      explanation: '79ᵉ/81 (2022)'
+      sources:
+        - source: 'OCDE – PISA 2022'
+          source_link: 'https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html'
+        - source: 'OCDE'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+        - source: 'worldpopulationreview'
+          source_link: 'https://worldpopulationreview.com/country-rankings/pisa-scores-by-country'
+
+    - question: 'Où classeriez-vous le Maroc dans le classement mondial de la liberté de la presse (RFS) (180 pays) ?'
+      options: ['Top 45', '46-90', '91-135', '136+']
+      correct: '91-135'
+      explanation: '120ᵉ/180 (2025)'
+      sources:
+        - source: 'Classement mondial RSF'
+          source_link: 'https://rsf.org/fr/pays/maroc-sahara-occidental'
+
+    - question: 'Quel pourcentage d’élèves marocains de 15 ans ont déjà redoublé une classe ?'
+      options: ['<20%', '20-30%', '31-40%', '41%+']
+      correct: '41%+'
+      explanation: 'Environ 45%'
+      sources:
+        - source: 'OCDE – PISA Country Profile'
+          source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
+
+    - question: 'Quelle part du PIB le Maroc consacre-t-il à l’éducation ?'
+      options: ['<3%', '3-4%', '5%', '6%+']
+      correct: '6%+'
+      explanation: 'Environ 6% du PIB'
+      sources:
+        - source: 'UNESCO – UIS'
+          source_link: 'https://download.uis.unesco.org/SDG4/SDG4-Profile-Morocco.pdf'
+
+    - question: 'Où classeriez-vous le Maroc dans l’indice de perception de la corruption (CPI) ?'
+      options: ['Top 50', '51-80', '81-100', '101+']
+      correct: '81-100'
+      explanation: '97ᵉ/180, score 37/100'
+      sources:
+        - source: 'Transparency International – CPI'
+          source_link: 'https://www.transparency.org/en/cpi/2024/index/mar'
+
+    - question: 'Où classeriez-vous le Maroc dans l’indice mondial de la démocratie (167 pays) ?'
+      options: ['Top 50', '51-80', '81-100', '101+']
+      correct: '81-100'
+      explanation: '91ᵉ/167 (2024)'
+      sources:
+        - source: 'The Economist – Democracy Index'
+          source_link: 'https://www.eiu.com/n/campaigns/democracy-index-2024/'
+        - source: 'wikipedia'
+          source_link: 'https://en.wikipedia.org/wiki/The_Economist_Democracy_Index'
+
+    - question: 'Combien donneriez-vous au Maroc en liberté globale (Freedom House, sur 100) ?'
+      options: ['0-25', '26-50', '51-75', '76-100']
+      correct: '26-50'
+      explanation: '37/100'
+      sources:
+        - source: 'Freedom House – Maroc'
+          source_link: 'https://freedomhouse.org/country/morocco'
+
+    - question: 'Où se situe le Maroc en égalité de genre (146 pays) ?'
+      options: ['Top 50', '51-100', '101-130', '131+']
+      correct: '131+'
+      explanation: '137ᵉ/146 (score ~0,628)'
+      sources:
+        - source: 'WEF – Global Gender Gap Report'
+          source_link: 'https://reports.weforum.org/docs/WEF_GGGR_2025.pdf'
+
+    - question: 'Quelle part du PIB le Maroc consacre-t-il à la santé ?'
+      options: ['<4%', '4-5%', '6%', '7%+']
+      correct: '6%'
+      explanation: '≈6% du PIB'
+      sources:
+        - source: 'البنك الدولي – الإنفاق الصحي'
+          source_link: 'https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS'
+
+    - question: 'Quel pourcentage des établissements de santé au Maroc ont accès à des services d’eau de base ?'
+      options: ['<70%', '71-80%', '81-90%', '91%+']
+      correct: '71-80%'
+      explanation: '≈76%'
+      sources:
+        - source: 'WHO/UNICEF JMP'
+          source_link: 'https://washdata.org/data/healthcare#!/MAR'

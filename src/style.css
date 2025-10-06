@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* Basic style reset and font application */
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* Hide screens by default */
+    .screen {
+      display: none;
+    }
+
+    /* Show the active screen */
+    .screen.active {
+      display: flex;
+    }
+
+    /* Styling for correct/wrong feedback on buttons */
+    .correct-answer {
+      background-color: var(--color-green-600) !important; 
+      color: white !important;
+      border-color: var(--color-green-700) !important;
+    }
+
+    .wrong-answer {
+      background-color: var(--color-red-600) !important;
+      color: white !important;
+      border-color: #var(--color-red-700) !important;
+    }
+
+    .disabled-button {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
