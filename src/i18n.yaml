@@ -57,7 +57,7 @@ ar:
           source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
 
     - question: 'شحال كيصرف المغرب على التعليم من الناتج الداخلي الخام؟'
-      options: ['أقل من 3%', '3-4%', '5%', '6%+']
+      options: ['6%+', '5%', '3-4%', 'أقل من 3%']
       correct: '6%+'
       explanation: 'حوالي 6% من الناتج الداخلي'
       sources:
@@ -91,7 +91,7 @@ ar:
           source_link: 'https://en.wikipedia.org/wiki/The_Economist_Democracy_Index'
 
     - question: 'شحال خدا المغرب فمؤشر الحرية (Freedom House) من 100؟'
-      options: ['0-25', '26-50', '51-75', '76-100']
+      options: ['76-100', '51-75', '26-50', '0-25']
       correct: '26-50'
       explanation: '37/100'
       sources:
@@ -107,7 +107,7 @@ ar:
           source_link: 'https://reports.weforum.org/docs/WEF_GGGR_2025.pdf'
 
     - question: 'شحال كيصرف المغرب على الصحة من الناتج الداخلي الخام؟'
-      options: ['أقل من 4%', '4-5%', '6%', '7%+']
+      options: ['7%+', '6%', '4-5%', 'أقل من 4%']
       correct: '6%'
       explanation: 'حوالي 6% من الناتج الداخلي'
       sources:
@@ -115,7 +115,7 @@ ar:
           source_link: 'https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS'
 
     - question: 'شحال من السبيطارات فالمغرب عندهم لمّا صالح و متوفر؟'
-      options: ['أقل من 70%', '71-80%', '81-90%', '91%+']
+      options: ['91%+', '81-90%', '71-80%', 'أقل من 70%']
       correct: '71-80%'
       explanation: 'حوالي 76%'
       sources:
@@ -181,7 +181,7 @@ en:
           source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
 
     - question: 'What share of GDP does Morocco spend on education?'
-      options: ['<3%', '3-4%', '5%', '6%+']
+      options: ['6%+', '5%', '3-4%', '<3%']
       correct: '6%+'
       explanation: 'About 6% of GDP'
       sources:
@@ -215,7 +215,7 @@ en:
           source_link: 'https://en.wikipedia.org/wiki/The_Economist_Democracy_Index'
 
     - question: 'What is Morocco’s global freedom score (Freedom House, out of 100)?'
-      options: ['0-25', '26-50', '51-75', '76-100']
+      options: ['76-100', '51-75', '26-50', '0-25']
       correct: '26-50'
       explanation: '37/100'
       sources:
@@ -231,7 +231,7 @@ en:
           source_link: 'https://reports.weforum.org/docs/WEF_GGGR_2025.pdf'
 
     - question: 'What share of GDP does Morocco spend on health?'
-      options: ['<4%', '4-5%', '6%', '7%+']
+      options: ['7%+', '6%', '4-5%', '<4%']
       correct: '6%'
       explanation: 'Around 6% of GDP'
       sources:
@@ -239,7 +239,7 @@ en:
           source_link: 'https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS'
 
     - question: 'What percentage of healthcare facilities in Morocco have basic water services?'
-      options: ['<70%', '71-80%', '81-90%', '91%+']
+      options: ['91%+', '81-90%', '71-80%', '<70%']
       correct: '71-80%'
       explanation: 'About 76%'
       sources:
@@ -313,7 +313,7 @@ fr:
           source_link: 'https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=MAR&treshold=5&topic=PI'
 
     - question: 'Quelle part du PIB le Maroc consacre-t-il à l’éducation ?'
-      options: ['<3%', '3-4%', '5%', '6%+']
+      options: ['6%+', '5%', '3-4%', '<3%']
       correct: '6%+'
       explanation: 'Environ 6% du PIB'
       sources:
@@ -339,7 +339,7 @@ fr:
           source_link: 'https://en.wikipedia.org/wiki/The_Economist_Democracy_Index'
 
     - question: 'Combien donneriez-vous au Maroc en liberté globale (Freedom House, sur 100) ?'
-      options: ['0-25', '26-50', '51-75', '76-100']
+      options: ['76-100', '51-75', '26-50', '0-25']
       correct: '26-50'
       explanation: '37/100'
       sources:
@@ -355,7 +355,7 @@ fr:
           source_link: 'https://reports.weforum.org/docs/WEF_GGGR_2025.pdf'
 
     - question: 'Quelle part du PIB le Maroc consacre-t-il à la santé ?'
-      options: ['<4%', '4-5%', '6%', '7%+']
+      options: ['7%+', '6%', '4-5%', '<4%']
       correct: '6%'
       explanation: '≈6% du PIB'
       sources:
@@ -363,7 +363,7 @@ fr:
           source_link: 'https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS'
 
     - question: 'Quel pourcentage des établissements de santé au Maroc ont accès à des services d’eau de base ?'
-      options: ['<70%', '71-80%', '81-90%', '91%+']
+      options: ['91%+', '81-90%', '71-80%', '<70%']
       correct: '71-80%'
       explanation: '≈76%'
       sources:
